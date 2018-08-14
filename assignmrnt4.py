@@ -30,7 +30,7 @@ while agn=='yes':
         print('the area of your chosen cylinder is:',l)
         print('thats all for the cylinder')
         agn=input('would you like to calculate another area?(yes/no):')
-    elif choice=='trisngle':
+    elif choice=='triangle':
         print('now we are going into a world of triangles, hope you are ready for it')
         m=eval(input('enter the height of our preferred triangle:'))
         n=eval(input('enter the length of the base of the triangle:'))
